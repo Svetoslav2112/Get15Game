@@ -1,0 +1,8 @@
+Get15 is a game for 2 players. Both players take turns to select a number from 1 to 9 
+until one has 3 numbers, which sum totals 15. Each number can be taken once.
+
+To run the game you need to:
+1. Run the "Get15Impl" class from "server" package.
+2. Allow "Parallel Run" in class "Get15ClientRMI" in "clientRMI" package.
+3. Run class "Get15ClientRMI" twice, once for each player.
+4. Play the game, if you have totalled 15 with your numbers you will be notified as winner.
